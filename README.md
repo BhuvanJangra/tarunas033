@@ -12,11 +12,22 @@
     
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p></br>
     
-    🌱 I’m currently learning **MERN Stack**
     
-    💬 Ask me about **HTML,CSS,JavaScript,React**
+- 🔭 I’m currently pursuing Full Stack Web Development
 
-     📫 How to reach me **tarunas033@gmail.com** 
+- 🌱 I’m currently learning React
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CO_LJNerbL7JKf-ZexWRtHEzx72kpEiw/view?usp=share_link)
+
+
+
+
+
+- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
+
+- 📫 How to reach me tarunas033@gmail.com
+
+
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunas033&label=Profile%20views&color=0e75b6&style=flat" alt="tarunas033" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -61,8 +72,14 @@
 </div>
 <br/>
 <h3>Github Stats:</h3>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunas033&show_icons=true&locale=en" alt="tarunas033" /></p> 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="tarunas033" /></p> -->
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunas033&" alt="tarunas033" /></p>
+
+
+
+
+
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
